@@ -1,0 +1,13 @@
+.main{
+    background: #20201a;
+    height: 415px;
+    color: white;
+    padding-top: 10px;
+}
+p{
+    text-align: center;
+}
+.demon{
+    height: 200px;
+    width: auto;
+}

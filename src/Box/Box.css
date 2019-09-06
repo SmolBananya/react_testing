@@ -1,0 +1,10 @@
+.box{
+    background-color: #ed2e76;
+    color: black;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    margin: 20px;
+    text-align: center;
+    display: inline-block;
+}
